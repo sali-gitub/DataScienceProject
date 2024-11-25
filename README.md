@@ -1,5 +1,7 @@
 Project Members: 
 
+ALL THE COMMENTS ARE ON THE REG_SALI NOTEBOOK
+
 Salomon Owona-Hamelin
 Raphael Preis
 Leonardo Luigi Catalano
